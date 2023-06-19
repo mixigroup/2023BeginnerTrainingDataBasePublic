@@ -4,7 +4,8 @@
 - [23新卒データベース研修 - 座学パート](https://speakerdeck.com/mixi_engineers/2023-database-training-01)
 
 ## 👨‍💻  SQL演習パート
-WIP
+- [23 新卒データベース研修 - SQL 演習パート](https://speakerdeck.com/mixi_engineers/2023-database-training-02-sql)
+- [SQL 演習用 GoogleColab テンプレート]()
 
 # 昨年までの研修
 - [2021年](https://github.com/mixigroup/2021BeginnerTrainingDataBasePublic)
